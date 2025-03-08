@@ -1,13 +1,11 @@
-## 4th-Trimester
-
 # 🎓 4th Trimester Academic Resources
 
 Welcome to the **4th Trimester Academic Resources** repository! This repository contains essential study materials, including **lecture notes, solved exercises, assignments, and exam resources** for the 4th trimester.
 
 ## 📚 Subjects Covered
-- 🖥️ **Computer Science** (Data Structures, Algorithms, Operating Systems)
-- 📊 **Mathematics** (Linear Algebra, Probability & Statistics)
-- ⚙️ **Engineering Topics** (Electronics, Circuit Analysis)
+- 🖥️ **Computer Science** (Data Structures, Algorithms)
+- 📊 **Mathematics** (VECTOR ANALYSIS)
+- ⚙️ **Engineering Topics** (Electrical, Circuit Analysis)
 - 📝 **Assignments & Solutions**
 - 📖 **Lecture Notes & Handouts**
 
