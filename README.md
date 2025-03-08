@@ -1,7 +1,4 @@
-# 4th-Trimester
-# VECTOR ANALYSIS
-# DATA STRUCTURE & ALGORITHM I
-# ELECTRICAL CIRCUIT
+## 4th-Trimester
 
 # 🎓 4th Trimester Academic Resources
 
@@ -19,13 +16,11 @@ Welcome to the **4th Trimester Academic Resources** repository! This repository 
 4th-Trimester/
 │── Computer-Science/
 │   ├── Data-Structures/
-│   ├── Algorithms/
-│   ├── Operating-Systems/
+│   ├── Algorithms I/
 │── Mathematics/
-│   ├── Linear-Algebra/
-│   ├── Probability-Statistics/
+│   ├── VECTOR ANALYSIS/
 │── Engineering/
-│   ├── Electronics/
+│   ├── Electrical/
 │   ├── Circuit-Analysis/
 │── Assignments/
 │── Notes/
