@@ -6,6 +6,7 @@ Welcome to the **4th Trimester Academic Resources** repository! This repository 
 ## 📚 Subjects Covered
 - 🖥️ **Computer Science** (Data Structures, Algorithms)
 - 📊 **Mathematics** (VECTOR ANALYSIS)
+- 
 - ⚙️ **Engineering Topics** (Electrical, Circuit Analysis)
 - 📝 **Assignments & Solutions**
 - 📖 **Lecture Notes & Handouts**
