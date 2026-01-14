@@ -10,7 +10,6 @@ Welcome to the **4th Trimester Academic Resources** repository! This repository 
 - 📝 **Assignments & Solutions**
 - 📖 **Lecture Notes & Handouts**
 
-
 ##(https://github.com/Sifat049/4th-Trimester/tree/main/Electrical_Circuit)📂 Folder Structure
 
 ```
