@@ -11,6 +11,7 @@ Welcome to the **4th Trimester Academic Resources** repository! This repository 
 - 📖 **Lecture Notes & Handouts**
 
 ##(https://github.com/Sifat049/4th-Trimester/tree/main/Electrical_Circuit)📂 Folder Structure
+
 ```
 4th-Trimester/
 │── Computer-Science/
